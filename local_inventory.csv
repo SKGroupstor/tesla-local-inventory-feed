@@ -1,4 +1,4 @@
-store_code,product_id,quantity,availability,pickup_method,pickup_sla
+store_code,id,quantity,availability,pickup_method,pickup_sla
 1010,gla_349,5000,in stock,buy,same_day
 1010,gla_973,5000,in stock,buy,same_day
 1010,gla_1058,5000,in stock,buy,same_day
