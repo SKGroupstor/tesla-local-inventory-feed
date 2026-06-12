@@ -164,8 +164,8 @@ store_code,id,quantity,availability,pickup_method,pickup_sla
 1010,c272,999,in stock,buy,same_day
 1010,tfs1100,999,in stock,buy,same_day
 1010,b417tx,999,in stock,buy,same_day
-1010,b385tsx,999,in stock,buy,same_day
-1010,a384t,999,in stock,buy,same_day
+1010,b385tsx,99,in stock,buy,same_day
+1010,a384t,99,in stock,buy,same_day
 1010,wfd25n,999,in stock,buy,same_day
 1010,b500x4,999,in stock,buy,same_day
 1010,plug-b-250cl-pl,999,in stock,buy,same_day
